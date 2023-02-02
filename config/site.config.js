@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://github.com/Kkongry0819',
     },
     {
-      name: 'blog',
+      name: 'Blog',
       link: 'https://www.dreamskiff.com',
     },
   ],
